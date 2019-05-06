@@ -11,8 +11,10 @@
     "url": "git+https://github.com/hiCabrera30/meta-chat.git"
   },
   "keywords": [
-    "meta-chat",
     "chat",
+    "nodejs",
+    "node",
+    "javascript",
     "socket.io"
   ],
   "author": "Ian Cabrera",
@@ -21,7 +23,8 @@
     "url": "https://github.com/hiCabrera30/meta-chat/issues"
   },
   "homepage": "https://github.com/hiCabrera30/meta-chat#readme",
-  "devDependencies": {
-    "webpack": "^4.29.6"
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "socket.io": "^2.1.1"
   }
 }

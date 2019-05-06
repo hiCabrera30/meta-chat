@@ -1,1 +1,1 @@
-module.exports =  require('./src/rs-chat.js');
+module.exports =  require('./src/server.js');
