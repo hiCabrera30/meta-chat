@@ -1,0 +1,27 @@
+{
+  "name": "meta-chat",
+  "version": "1.0.0",
+  "description": "Chat plug in made from rs-chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiCabrera30/meta-chat.git"
+  },
+  "keywords": [
+    "meta-chat",
+    "chat",
+    "socket.io"
+  ],
+  "author": "Ian Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiCabrera30/meta-chat/issues"
+  },
+  "homepage": "https://github.com/hiCabrera30/meta-chat#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6"
+  }
+}
